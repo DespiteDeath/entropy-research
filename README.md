@@ -44,12 +44,11 @@ https://cdn1.savepice.ru/uploads/2017/11/19/bc93d384a464eed81e114e138377b63a-ful
 ```
 
 Например, здесь приведено сравнение одного и того же файла 24 МБ после ввода алгоритмов AES, 3DES, gzip и lzma:
-https://cdn1.savepice.ru/uploads/2017/11/19/f63979afc5a539efde732cad5ff68fa2-full.png
+<a href="https://savepice.ru/" target="_blank"><img src="https://cdn1.savepice.ru/uploads/2017/11/19/88cac030aa7c550aff51c95f1988351f-full.png" alt="" title="фотохостинг" border="0"/></a>
 
 # Демо-расчет
 <a href="https://savepice.ru/" target="_blank"><img src="https://cdn1.savepice.ru/uploads/2017/11/19/9a5990e4e1737de4f4bbfd6a16b30f7e-full.png" alt="" title="фотохостинг" border="0"/></a>
 
-[URL=https://perfetto-furniture.com/][IMG]https://cdn1.savepice.ru/uploads/2017/11/19/9a5990e4e1737de4f4bbfd6a16b30f7e-full.png[/IMG][/URL] [URL=https://excellence-clinic.com.ua/ru/vrosshij-nogot/]вросший ноготь киев[/URL] [URL=https://excellence-clinic.com.ua/ru/lazernaja-jepiljacija/]лазерная эпиляция киев[/URL] [URL=https://excellence-clinic.com.ua/ru/udalenie-rodinok-papillom-borodavok/]удаление родинок[/URL] [URL=https://excellence-clinic.com.ua/ru/udalenie-rodinok-papillom-borodavok/]удаление папиллом[/URL] [URL=https://excellence-clinic.com.ua/ru/udalenie-rodinok-papillom-borodavok/]удаление бородавок[/URL]
 
 # Tutorial 
 ```ShellSession
