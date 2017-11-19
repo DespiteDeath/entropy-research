@@ -15,11 +15,11 @@
 # Методы: 
 Энтропия данных может рассказать нам многое о содержании данных
 
-https://cdn1.savepice.ru/uploads/2017/11/19/7a0f6fcf823efd019cc2d9b46375a45e-full.png
+<a href="https://savepice.ru/" target="_blank"><img src="https://cdn1.savepice.ru/uploads/2017/11/19/044a76df2758a2cea0bf24431e2350af-full.png" alt="" title="фотохостинг" border="0"/></a>
 
 Но не все алгоритмы сжатия одинаковы, и некоторые сжатые данные могут быть очень трудно визуально отличить от зашифрованных данных
 
-https://cdn1.savepice.ru/uploads/2017/11/19/bc93d384a464eed81e114e138377b63a-full.png
+<a href="https://savepice.ru/" target="_blank"><img src="https://cdn1.savepice.ru/uploads/2017/11/19/31ee39023f830c53f279d6ec44f31e68-full.png" alt="" title="фотохостинг" border="0"/></a>
 
 # Кси-распределение:
 Показывает отклонение наблюдаемых результатов от ожидаемых результатов
