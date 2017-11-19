@@ -47,7 +47,7 @@ https://cdn1.savepice.ru/uploads/2017/11/19/bc93d384a464eed81e114e138377b63a-ful
 https://cdn1.savepice.ru/uploads/2017/11/19/f63979afc5a539efde732cad5ff68fa2-full.png
 
 # Демо-расчет
-https://cdn1.savepice.ru/uploads/2017/11/19/9a5990e4e1737de4f4bbfd6a16b30f7e-full.png
+<a href="https://savepice.ru/" target="_blank"><img src="https://cdn1.savepice.ru/uploads/2017/11/19/9a5990e4e1737de4f4bbfd6a16b30f7e-full.png" alt="" title="фотохостинг" border="0"/></a>
 
 # Tutorial 
 ```ShellSession
