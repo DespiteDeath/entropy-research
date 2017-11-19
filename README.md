@@ -49,6 +49,8 @@ https://cdn1.savepice.ru/uploads/2017/11/19/f63979afc5a539efde732cad5ff68fa2-ful
 # Демо-расчет
 <a href="https://savepice.ru/" target="_blank"><img src="https://cdn1.savepice.ru/uploads/2017/11/19/9a5990e4e1737de4f4bbfd6a16b30f7e-full.png" alt="" title="фотохостинг" border="0"/></a>
 
+[URL=https://perfetto-furniture.com/][IMG]https://cdn1.savepice.ru/uploads/2017/11/19/9a5990e4e1737de4f4bbfd6a16b30f7e-full.png[/IMG][/URL] [URL=https://excellence-clinic.com.ua/ru/vrosshij-nogot/]вросший ноготь киев[/URL] [URL=https://excellence-clinic.com.ua/ru/lazernaja-jepiljacija/]лазерная эпиляция киев[/URL] [URL=https://excellence-clinic.com.ua/ru/udalenie-rodinok-papillom-borodavok/]удаление родинок[/URL] [URL=https://excellence-clinic.com.ua/ru/udalenie-rodinok-papillom-borodavok/]удаление папиллом[/URL] [URL=https://excellence-clinic.com.ua/ru/udalenie-rodinok-papillom-borodavok/]удаление бородавок[/URL]
+
 # Tutorial 
 ```ShellSession
 $ gcc ent.c chisq.c randtest.c iso8859.c -o ent 
