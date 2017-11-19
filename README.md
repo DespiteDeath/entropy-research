@@ -44,6 +44,7 @@ https://cdn1.savepice.ru/uploads/2017/11/19/bc93d384a464eed81e114e138377b63a-ful
 ```
 
 Например, здесь приведено сравнение одного и того же файла 24 МБ после ввода алгоритмов AES, 3DES, gzip и lzma:
+
 <a href="https://savepice.ru/" target="_blank"><img src="https://cdn1.savepice.ru/uploads/2017/11/19/88cac030aa7c550aff51c95f1988351f-full.png" alt="" title="фотохостинг" border="0"/></a>
 
 # Демо-расчет
