@@ -1,7 +1,7 @@
 
 /* ISO 8859/1 Latin-1 alphabetic and upper and lower case bit vector tables. */
 
-/* LINTLIBRARY */
+/* lint_lib */
 
 unsigned char isoalpha[32] = {
     0,0,0,0,0,0,0,0,127,255,255,224,127,255,255,224,0,0,0,0,0,0,0,0,255,255,
