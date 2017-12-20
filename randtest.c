@@ -11,7 +11,7 @@ static long ccount[256],	   /* Bins to count occurrences of values */
 	    totalc = 0; 		   /* Total bytes counted */
 static double prob[256];	   /* Probabilities per bin for entropy */
 
-								/*  RT_LOG2  --  Calculate log to the base 2  */
+								/* Calculate log to the base 2  */
 
 static double rt_log2(double x)
 {
@@ -27,7 +27,7 @@ static double cexp, incirc, montex, montey, montepi,
 	      scc, sccun, sccu0, scclast, scct1, scct2, scct3,
 	      ent, chisq, datasum;
 
-							/*  RT_INIT  --  Initialise random test counters.  */
+							/*  Initialise random test counters.  */
 
 void rt_init(int binmode)
 {
@@ -57,7 +57,7 @@ void rt_init(int binmode)
     totalc = 0;
 }
 
-					/*  RT_ADD  --	Add one or more bytes to accumulation.	*/
+					/* Add one or more bytes to accumulation.*/
 
 void rt_add(void *buf, int bufl)
 {
@@ -115,7 +115,7 @@ void rt_add(void *buf, int bufl)
     }
 }
 
-			/*  RT_END  --	Complete calculation and return results.  */
+			/* Complete calculation and return results.  */
 
 void rt_end(double *r_ent, double *r_chisq, double *r_mean,
 	    double *r_montepicalc, double *r_scc)
